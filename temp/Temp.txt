@@ -1,0 +1,10 @@
+Каталог res создан
+Каталог res\drawables создан
+Каталог res\vectors создан
+Каталог res\icons создан
+Файл src\main\Main.java создан
+Файл src\main\Utils.java создан
+Каталог src\test создан
+Каталог savegames создан
+Каталог temp создан
+Файл temp\Temp.txt создан
